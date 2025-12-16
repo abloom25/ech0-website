@@ -14,5 +14,5 @@ export default defineConfig({
   },
   // 如果部署到 GitHub Pages，需要将 base 设置为仓库名称
   // 例如：base: '/ech0-website/',
-  base: '/',
+  base: '/ech0-website/',
 })
